@@ -92,7 +92,7 @@ uv python install 3.12
 Use it for the current project:
 
 ```bash
-uv python use 3.12
+uv python pin 3.12
 ```
 
 (uv is now capable of replacing pyenv for version management.)
